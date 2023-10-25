@@ -12,13 +12,11 @@
   - [SQL](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-sql)
 - [RB101 & RB109](https://github.com/SandyRodger/RB_101)
 - [RB120 & RB129](https://github.com/SandyRodger/RB120_OOP)
-- 
-
-RB130 & RB139
-LS170 & LS171
-RB175
-LS180
-LS202
+- [RB130 & RB139](https://github.com/SandyRodger/RB130-139)
+- [LS170 & LS171]()
+- [RB175]()
+- [LS180]()
+- [LS202]()
 
 ## [Open Book Shelf](https://launchschool.com/books)
 
@@ -408,10 +406,11 @@ LS202
 ### [Lesson 6](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-6)
 
 ## [RB120 & RB129](https://github.com/SandyRodger/RB120_OOP)
-### [Lesson 1](https://github.com/SandyRodger/RB120_OOP/tree/main/Lesson%201
-- This folder contains 3 pages of quite unhelpful notes.
+### [Lesson 1](https://github.com/SandyRodger/RB120_OOP/tree/main/Lesson%201) (3 pages of quite unhelpful notes)
 ### [Lesson 2](https://github.com/SandyRodger/RB120_OOP/blob/main/Lesson%202/Lesson%202%20(2nd%20go-through).md)
 ### Lesson 3  (no notes, no directory)
 ### [Lesson 4](https://github.com/SandyRodger/RB120_OOP/tree/main/04_lesson_4) (no notes)
 ### [Lesson 5](https://github.com/SandyRodger/RB120_OOP/tree/main/05_lesson_5)
 ### [Lesson 6](https://github.com/SandyRodger/RB120_OOP/tree/main/06_OOP_exercises) (no notes)
+
+## [RB130 & RB139](https://github.com/SandyRodger/RB130-139)
