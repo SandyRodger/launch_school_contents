@@ -18,6 +18,8 @@
 - [LS180](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls180)
 - [LS202](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls202)
 
+# Books
+
 ### [Introduction to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md)
 
 - [A guide to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md#a-guide-to-git-and-github)
@@ -393,6 +395,8 @@
 ### Agile Planning.
 ### Demystifying Rails.
 ### Introduction to Programming with Javascript.
+
+# Back end course
 
 ## [RB101 & RB109](https://github.com/SandyRodger/RB_101)
 
