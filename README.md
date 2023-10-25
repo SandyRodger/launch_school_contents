@@ -2,14 +2,14 @@
 
 Contents:
 - Books:
-  - Git and Github
-  - Ruby
-  - OOP
-  - Command Line
-  - Core Ruby Tools
-  - HTTP
-  - Regex
-  - SQL
+  - [Git and Github](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-git-and-github)
+  - [Ruby](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-programming-with-ruby)
+  - [OOP](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#object-oriented-programming-with-ruby)
+  - [Command Line](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-the-command-line)
+  - [Core Ruby Tools](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#core-ruby-tools)
+  - [HTTP](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-http)
+  - [Regex](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-regular-expressions)
+  - [SQL](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-sql)
 
 Orientation
 Programming & Back-end Prep
