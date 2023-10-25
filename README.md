@@ -1,6 +1,6 @@
 # Launch School
 
-## Contents:
+## Contents
 - Books:
   - [Git and Github](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-git-and-github)
   - [Ruby](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-programming-with-ruby)
@@ -17,8 +17,6 @@
 - [RB175](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#rb175)
 - [LS180](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls180)
 - [LS202](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls202)
-
-## [Open Book Shelf](https://launchschool.com/books)
 
 ### [Introduction to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md)
 
