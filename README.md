@@ -1,6 +1,6 @@
 # Launch School
 
-Contents:
+## Contents:
 - Books:
   - [Git and Github](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-git-and-github)
   - [Ruby](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-programming-with-ruby)
@@ -11,19 +11,18 @@ Contents:
   - [Regex](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-regular-expressions)
   - [SQL](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-sql)
 - [RB101 & RB109](https://github.com/SandyRodger/RB_101)
+- [RB120 & RB129](https://github.com/SandyRodger/RB120_OOP)
+- 
 
-
-
-RB120 & RB129
 RB130 & RB139
 LS170 & LS171
 RB175
 LS180
 LS202
 
-# [Open Book Shelf](https://launchschool.com/books)
+## [Open Book Shelf](https://launchschool.com/books)
 
-## [Introduction to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md)
+### [Introduction to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md)
 
 - [A guide to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md#a-guide-to-git-and-github)
   - [Getting Started](https://github.com/SandyRodger/RB_101/blob/main/github_book.md#getting-started)
@@ -96,15 +95,15 @@ LS202
       - [Resources](https://github.com/SandyRodger/RB_101/blob/main/github_book.md#resources)
 
 
-## [Introduction to programming with Ruby.](https://github.com/SandyRodger/launch_school_books/blob/main/intro_to_ruby_book.md)
+### [Introduction to programming with Ruby.](https://github.com/SandyRodger/launch_school_books/blob/main/intro_to_ruby_book.md)
 
 - I read it, but took physical notes in a notebook
 
-## [Object Oriented Programming with Ruby.](https://github.com/SandyRodger/launch_school_books/blob/main/OOP_book.md)
+### [Object Oriented Programming with Ruby.](https://github.com/SandyRodger/launch_school_books/blob/main/OOP_book.md)
 
 - I read it, but took physical notes in a notebook
 
-## [Introduction to the Command Line](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_the_command_line.md)
+### [Introduction to the Command Line](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_the_command_line.md)
 
 - [Introduction](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_the_command_line.md#introduction)
 - [Preparations](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_the_command_line.md#preparations)
@@ -129,7 +128,7 @@ LS202
 - [Conclusion](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_the_command_line.md#conclusion)
 - [My CLI vocab](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_the_command_line.md#my-cli-vocab)
 
-## [Core Ruby Tools](https://github.com/SandyRodger/launch_school_books/blob/main/ruby_core_tools.md)
+### [Core Ruby Tools](https://github.com/SandyRodger/launch_school_books/blob/main/ruby_core_tools.md)
 
   - [Introduction](https://github.com/SandyRodger/launch_school_books/blob/main/ruby_core_tools.md#introduction)
 - [Your Ruby Installation](https://github.com/SandyRodger/launch_school_books/blob/main/ruby_core_tools.md#your-ruby-installation)
@@ -180,7 +179,7 @@ LS202
   - [Relationships](https://github.com/SandyRodger/launch_school_books/blob/main/ruby_core_tools.md#relationships)
   - [Useful links](https://github.com/SandyRodger/launch_school_books/blob/main/ruby_core_tools.md#useful-links)
 
-## [Introduction to HTTP](https://github.com/SandyRodger/launch_school_books/blob/main/http_book.md)
+### [Introduction to HTTP](https://github.com/SandyRodger/launch_school_books/blob/main/http_book.md)
 
 - [Background](https://github.com/SandyRodger/launch_school_books/blob/main/http_book.md#background)
   - [Introduction](https://github.com/SandyRodger/launch_school_books/blob/main/http_book.md#introduction)
@@ -233,7 +232,7 @@ LS202
   - [Summary](https://github.com/SandyRodger/launch_school_books/blob/main/http_book.md#summary-4)
 - [Conclusions and next steps](https://github.com/SandyRodger/launch_school_books/blob/main/http_book.md#conclusions-and-next-steps)
 
-## [Introduction to Regular Expressions](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_regex.md)
+### [Introduction to Regular Expressions](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_regex.md)
 
   - [Other resources](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_regex.md#other-resources)
 - [Basic Matching](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_regex.md#basic-matching)
@@ -245,7 +244,7 @@ LS202
 - [Quantifiers](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_regex.md#quantifiers)
   - [Greediness](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_regex.md#greediness)
 
-## [Introduction to SQL](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md)
+### [Introduction to SQL](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md)
 - [GETTING STARTED](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#getting-started)
   - [1. Introduction](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#1-introduction)
     - [The importance of data](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#the-importance-of-data)
@@ -394,17 +393,25 @@ LS202
     - [Summary](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#summary-13)
     - [Next Steps](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#next-steps)
 
-## Working with Web APIS.
-## Agile Planning.
-## Demystifying Rails.
-## Introduction to Programming with Javascript.
+### Working with Web APIS.
+### Agile Planning.
+### Demystifying Rails.
+### Introduction to Programming with Javascript.
 
-# [RB101 & RB109](https://github.com/SandyRodger/RB_101)
+## [RB101 & RB109](https://github.com/SandyRodger/RB_101)
 
-## [Lesson 1: preparations](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-1-preparations)
-## [Lesson 2: Small Problems](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-2-small-problems)
-## [Lesson 3: Practice problems](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-3-practice-problems)
-## [Lesson 4](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-4)
-## [Lesson 5](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-5)
-## [Lesson 6](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-6)
+### [Lesson 1: preparations](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-1-preparations)
+### [Lesson 2: Small Problems](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-2-small-problems)
+### [Lesson 3: Practice problems](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-3-practice-problems)
+### [Lesson 4](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-4)
+### [Lesson 5](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-5)
+### [Lesson 6](https://github.com/SandyRodger/RB_101/blob/main/README.md#lesson-6)
 
+## [RB120 & RB129](https://github.com/SandyRodger/RB120_OOP)
+### [Lesson 1](https://github.com/SandyRodger/RB120_OOP/tree/main/Lesson%201
+- This folder contains 3 pages of quite unhelpful notes.
+### [Lesson 2](https://github.com/SandyRodger/RB120_OOP/blob/main/Lesson%202/Lesson%202%20(2nd%20go-through).md)
+### Lesson 3  (no notes, no directory)
+### [Lesson 4](https://github.com/SandyRodger/RB120_OOP/tree/main/04_lesson_4) (no notes)
+### [Lesson 5](https://github.com/SandyRodger/RB120_OOP/tree/main/05_lesson_5)
+### [Lesson 6](https://github.com/SandyRodger/RB120_OOP/tree/main/06_OOP_exercises) (no notes)
