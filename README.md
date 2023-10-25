@@ -10,9 +10,10 @@ Contents:
   - [HTTP](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-http)
   - [Regex](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-regular-expressions)
   - [SQL](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-sql)
+- [RB101 & RB109](https://github.com/SandyRodger/RB_101)
 
-RB101 to RB109
-RB110 & RB119
+
+
 RB120 & RB129
 RB130 & RB139
 LS170 & LS171
@@ -393,9 +394,11 @@ LS202
     - [Summary](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#summary-13)
     - [Next Steps](https://github.com/SandyRodger/launch_school_books/blob/main/introduction_to_sql.md#next-steps)
 
-
 ## Working with Web APIS.
 ## Agile Planning.
 ## Demystifying Rails.
 ## Introduction to Programming with Javascript.
+
+# [RB101 & RB109](https://github.com/SandyRodger/RB_101)
+
 
