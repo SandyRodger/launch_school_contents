@@ -11,9 +11,7 @@ Contents:
   - [Regex](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-regular-expressions)
   - [SQL](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-sql)
 
-Orientation
-Programming & Back-end Prep
-RB101 & RB109
+RB101 to RB109
 RB110 & RB119
 RB120 & RB129
 RB130 & RB139
