@@ -17,8 +17,17 @@
   - [LS170 & LS171](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls170--ls171)
   - [RB175](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#rb175)
   - [LS180](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls180)
-  - [LS202](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls202)
+  - RB185 - database applications
 
+- Front end:
+  - [LS202](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls202)
+  - Fundamentals of JavaScript for Programmers
+  - LS215 Computational Thinking and Problem Solving
+  - LS220 Introduction to Data Structures and Algorithms
+  - JS225 Object Oriented JavaScript
+  - JS230 DOM and Asynchronous Programming with JavaScript
+  - TS240 Introduction to TypeScript
+    
 # Books
 
 ### [Introduction to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md)
