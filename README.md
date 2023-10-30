@@ -10,6 +10,11 @@
   - [HTTP](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-http)
   - [Regex](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-regular-expressions)
   - [SQL](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#introduction-to-sql)
+  - Web APIs
+  - Agile planning
+  - Demystifying Rails
+  - Javascript
+
 - Back-end
   - [RB101 & RB109](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#rb101--rb109)
   - [RB120 & RB129](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#rb120--rb129)
