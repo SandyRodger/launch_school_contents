@@ -32,7 +32,11 @@
   - JS225 Object Oriented JavaScript
   - JS230 DOM and Asynchronous Programming with JavaScript
   - TS240 Introduction to TypeScript
-    
+
+# Extras
+
+- kernel#format
+
 # Books
 
 ### [Introduction to Git and Github](https://github.com/SandyRodger/RB_101/blob/main/github_book.md)
