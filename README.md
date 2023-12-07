@@ -35,7 +35,7 @@
 
 # Extras
 
-- kernel#format
+- [kernel#format](https://github.com/SandyRodger/Launch-School-Notes/blob/main/kernel_format.md)
 
 # Books
 
