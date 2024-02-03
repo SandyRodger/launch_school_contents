@@ -22,7 +22,7 @@
   - [LS170 & LS171](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls170--ls171)
   - [RB175](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#rb175)
   - [LS180](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls180)
-  - RB185 - database applications
+  - [RB185 - database applications](https://github.com/SandyRodger/RB185-RB189)
 
 - Front end:
   - [LS202](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#ls202)
