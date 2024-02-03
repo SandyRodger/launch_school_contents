@@ -36,6 +36,7 @@
 # Extras
 
 - [kernel#format](https://github.com/SandyRodger/Launch-School-Notes/blob/main/kernel_format.md)
+- DSL : Domain Specific Language.
 
 # Books
 
