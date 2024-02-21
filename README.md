@@ -38,6 +38,7 @@
 - [kernel#format](https://github.com/SandyRodger/Launch-School-Notes/blob/main/kernel_format.md)
 - DSL : Domain Specific Language.
 - [Squiggly HEREDOC](https://infinum.co/the-capsized-eight/articles/multiline-strings-ruby-2-3-0-the-squiggly-heredoc)
+- binding ?
 
 # Books
 
