@@ -948,6 +948,8 @@
 
 - [bcrypt](https://launchschool.com/lessons/ac566aae/assignments/537af113)
 - [favicon](https://launchschool.com/lessons/ac566aae/assignments/ba2a5d8d)
+- adding a salt to passwords ("salting")
+- [allow-listing](https://launchschool.com/lessons/ac566aae/assignments/5f01c374)
 
 ### [9. Optional Projects](https://github.com/SandyRodger/RB175_networked_applications/blob/main/09_optional_projects.md)
 
