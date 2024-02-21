@@ -947,6 +947,7 @@
 ### [8. Project: File-based CMS](https://github.com/SandyRodger/RB175_networked_applications/blob/main/08_project_file_based_CMS.md)
 
 - bcrypt
+[favicon](https://launchschool.com/lessons/ac566aae/assignments/ba2a5d8d)
 
 ### [9. Optional Projects](https://github.com/SandyRodger/RB175_networked_applications/blob/main/09_optional_projects.md)
 
