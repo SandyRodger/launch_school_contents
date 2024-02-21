@@ -1284,6 +1284,3 @@
 - 4 [Pushing Down Operations to the Database](https://github.com/SandyRodger/RB185-RB189/blob/main/L3_optimisation.md#pushing-down-operations-to-the-database)
 - 5 [Summary](https://github.com/SandyRodger/RB185-RB189/blob/main/L3_optimisation.md#summary)
 - 6 [Quiz](https://github.com/SandyRodger/RB185-RB189/blob/main/L3_optimisation.md#quiz)
-
-### [L4: Moving On]
-
