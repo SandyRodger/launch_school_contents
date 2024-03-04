@@ -13,7 +13,7 @@
   - Web APIs
   - Agile planning
   - Demystifying Rails
-  - Javascript
+  - [Javascript](https://github.com/SandyRodger/launch_school_books/blob/main/javascript.md)
 
 - Back-end
   - [RB101 & RB109](https://github.com/SandyRodger/launch_school_contents/blob/main/README.md#rb101--rb109)
