@@ -39,6 +39,7 @@
 - DSL : Domain Specific Language.
 - [Squiggly HEREDOC](https://infinum.co/the-capsized-eight/articles/multiline-strings-ruby-2-3-0-the-squiggly-heredoc)
 - binding ?
+- [dev tools](https://github.com/SandyRodger/self_directed_study/blob/main/dev_tools.md)
 
 # Books
 
